@@ -64,7 +64,7 @@ git init
 git add .
 git commit -m "🚀 Initial commit - VCF Contact Hub"
 git branch -M main
-git remote add origin https://github.com/INCONNU-BOY/vcf-contact-hub.git
+git remote add origin https://github.com/INCONNU-BOY/inconnu-vcf.git
 git push -u origin main
 ```
 
@@ -92,7 +92,7 @@ git push -u origin main
 
 6. **Create Web Service** → attend 2-3 minutes
 
-7. ✅ Ton site est live sur `https://vcf-contact-hub.onrender.com`
+7. ✅ Ton site est live sur `https://vcf-contact-2fkl.onrender.com`
 
 ---
 
