@@ -194,4 +194,4 @@ Ce format est reconnu nativement par :
 
 ---
 
-*Built with ❤️ by **SCORPION TECH*** **  · [WhatsApp Channel](https://whatsapp.com/channel/0029VbDNVNs002T3TGUozn0g)
+*Built with ❤️ by **SCORPION TECH *** **  · [WhatsApp Channel](https://whatsapp.com/channel/0029VbDNVNs002T3TGUozn0g)
