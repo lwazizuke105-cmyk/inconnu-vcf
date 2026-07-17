@@ -1,4 +1,4 @@
-# 🟢 PRIMENX TECH — VCF Contact Hub
+# 🟢 SCORPION TECH — VCF Contact Hub
 
 ---
 
@@ -64,7 +64,7 @@ git init
 git add .
 git commit -m "🚀 Initial commit - VCF Contact Hub"
 git branch -M main
-git remote add origin https://github.com/PRIME/primenx-vcf.git
+git remote add origin https://github.com/SCORPION/scorpion-vcf.git
 git push -u origin main
 ```
 
@@ -118,7 +118,7 @@ git push -u origin main
 ```bash
 curl -X POST https://ton-site.onrender.com/api/register \
   -H "Content-Type: application/json" \
-  -d '{"name":"primenx","phone":"+27 73 816 4314"}'
+  -d '{"name":"scorpion","phone":"+27 73 816 4314"}'
 ```
 
 ### Codes d'erreur
@@ -171,7 +171,7 @@ Quand les 500 contacts sont atteints, `/api/download` génère un fichier `.vcf`
 ```
 BEGIN:VCARD
 VERSION:3.0
-FN:primenx 
+FN:scorpion
 TEL;TYPE=CELL:+27 073 632 4314
 END:VCARD
 ```
@@ -194,4 +194,4 @@ Ce format est reconnu nativement par :
 
 ---
 
-*Built with ❤️ by **PRIMENX TECH*** **  · [WhatsApp Channel](https://whatsapp.com/channel/0029VbDNVNs002T3TGUozn0g)
+*Built with ❤️ by **SCORPION TECH*** **  · [WhatsApp Channel](https://whatsapp.com/channel/0029VbDNVNs002T3TGUozn0g)
