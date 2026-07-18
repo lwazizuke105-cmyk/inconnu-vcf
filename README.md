@@ -2,7 +2,7 @@
 
 ---
 
-## 📁 Structure du projet
+## 📁 Structure of project
 
 ```
 vcf-contact-hub/
@@ -19,7 +19,7 @@ vcf-contact-hub/
 
 ---
 
-## ⚙️ Variables d'environnement
+## ⚙️ Variables environment
 
 Copie `.env.example` → `.env` et remplis :
 
